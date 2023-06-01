@@ -1,4 +1,4 @@
 Proceso ejemplo	
-	escribir"hola mundo"
+	escribir"hola mundo!!!"
 	
 FinProceso
